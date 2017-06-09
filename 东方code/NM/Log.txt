@@ -1,0 +1,95 @@
+0:僔僗僥儉偺忣曬傪弌椡偟傑偡
+0:	俢倃儔僀僽儔儕 Ver3.04d
+0:	榑棟僾儘僙僢僒偺悢 : 4
+0:	俷俽  Windows ( Build 9200  )
+117:	俠俹倀摦嶌懍搙丗戝懱2.19GHz
+118:	俵俵倃柦椷傪巊梡偟傑偡
+119:	俽俽俤柦椷偑巊梡壜擻偱偡
+120:	俽俽俤俀柦椷偑巊梡壜擻偱偡
+121:	俠俹倀儀儞僟丗GenuineIntel
+124:	俠俹倀柤丗Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+128:俠俷俵偺弶婜壔... 惉岟偟傑偟偨
+138:儊儌儕憤検:4018.27MB  嬻偒儊儌儕椞堟:1762.21MB 
+139:僞僀儅乕偺惛搙傪専嵏偟傑偡
+140:惛搙寢壥 峏怴夞悢 儅儖僠儊僨傿傾僞僀儅乕丗0  僷僼僅乕儅儞僗僇僂儞僞乕丗60
+141: 僷僼僅乕儅儞僗僇僂儞僞乕傪巊梡偟傑偡 僞僀儅乕暘夝擻 : 2143.474000 KHz 
+142: 僜僼僩偺擇廳婲摦専嵏... 擇廳婲摦偼偝傟偰偄傑偣傫偱偟偨
+144:僂僀儞僪僂僋儔僗傪搊榐偟傑偡... 搊榐偵惉岟偟傑偟偨
+146:僂僀儞僪僂儌乕僪婲摦梡偺僂僀儞僪僂傪嶌惉偟傑偡
+149:僂僀儞僪僂偺嶌惉偵惉岟偟傑偟偨
+160:俬俵俤傪柍岠偵偟傑偟偨
+161:僂僀儞僪僂僗僞僀儖傪僂僀儞僪僂儌乕僪梡偵曄峏偟傑偡... 姰椆
+163:DirectInput娭學弶婜壔張棟
+164:	DirectInput7 偺庢摼拞... 惉岟
+200:		堷偒懕偒弶婜壔張棟... 弶婜壔惉岟
+202:	僕儑僀僷僢僪偺弶婜壔... 
+208:	僕儑僀僷僢僪偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+209:	儅僂僗僨僶僀僗偺弶婜壔... 弶婜壔惉岟
+211:	僉乕儃乕僪僨僶僀僗偺弶婜壔... 弶婜壔惉岟
+214:DirectInput 娭楢偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+216:DirectSound 偺弶婜壔傪峴偄傑偡
+217:DirectSound 僀儞僞乕僼僃乕僗偺庢摼傪峴偄傑偡....  惉岟
+227:堷偒懕偒僀儞僞乕僼僃乕僗偺弶婜壔張棟...  惉岟
+542:	DirectSound 僨僶僀僗傪楍嫇偟傑偡
+548:		儌僕儏乕儖柤:                 僪儔僀僶婰弎:主声音驱动程序 
+550:		儌僕儏乕儖柤:{0.0.0.00000000}.{91394887-4ac3-4cff-a2c0-deca5c68f197}  僪儔僀僶婰弎:喇叭/耳机 (Realtek High Definition Audio) 
+551:	嵟戝僒儞僾儕儞僌儗乕僩:200.00KHz 嵟彫僒儞僾儕儞僌儗乕僩:0.10KHz 
+553:	憤僒僂儞僪儊儌儕椞堟:0.00KB 嬻偒僒僂儞僪儊儌儕椞堟:0.00KB 
+
+554:	棙梡壜擻僒儞僾儕儞僌惛搙
+555:	 僾儔僀儅儕 侾俇bit = OK  俉bit = OK 
+556:	 僙僇儞僟儕 侾俇bit = OK  俉bit = OK 
+
+558:	棙梡壜擻僠儍儞僱儖
+559:	 僾儔僀儅儕 MONO = OK  STEREO = OK 
+561:	 僙僇儞僟儕 MONO = OK  STEREO = OK 
+
+563:DirectSound 偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+583:DirectDraw 僆僽僕僃僋僩偺庢摼傪峴偄傑偡....  惉岟
+604:堷偒懕偒弶婜壔張棟... 弶婜壔偵惉岟偟傑偟偨
+641:IDirect3D9Ex 僆僽僕僃僋僩傪庢摼偟傑偡.... 惉岟
+656:IDirect3DDevice9Ex 僆僽僕僃僋僩傪庢摼偟傑偡.... 僴乕僪僂僄傾捀揰墘嶼傪巊梡偟傑偡
+948:惉岟
+951:Driver:igdumdim32.dll  Description:Intel(R) HD Graphics 5500
+953:夋柺偺僼僅乕儅僢僩偼 D3DFMT_X8R8G8B8 偱偡
+955:倅僶僢僼傽偺僼僅乕儅僢僩偼 D3DFMT_D16 偱偡
+957:16bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_R5G6B5 偱偡
+959:32bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_X8R8G8B8 偱偡
+961:傾儖僼傽晅偒 16bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_A4R4G4B4 偱偡
+963:傾儖僼傽晅偒 32bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_A8R8G8B8 偱偡
+965:傾儖僼傽僥僗僩梡 16bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_A1R5G5B5 偱偡
+967:傾儖僼傽僥僗僩梡 32bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_A8R8G8B8 偱偡
+968:俢倃俿侾僥僋僗僠儍僼僅乕儅僢僩偼 D_D3DFMT_DXT1 偱偡
+970:俢倃俿俀僥僋僗僠儍僼僅乕儅僢僩偼 D_D3DFMT_DXT2 偱偡
+972:俢倃俿俁僥僋僗僠儍僼僅乕儅僢僩偼 D_D3DFMT_DXT3 偱偡
+973:俢倃俿係僥僋僗僠儍僼僅乕儅僢僩偼 D_D3DFMT_DXT4 偱偡
+975:俢倃俿俆僥僋僗僠儍僼僅乕儅僢僩偼 D_D3DFMT_DXT5 偱偡
+976:昤夋梡 16bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_R5G6B5 偱偡
+978:昤夋梡 32bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_X8R8G8B8 偱偡
+979:昤夋梡傾儖僼傽晅偒 32bit 僇儔乕僼僅乕儅僢僩偼 D_D3DFMT_A8R8G8B8 偱偡
+1000:僶僢僋僶僢僼傽儘僢僋揮憲偺帪娫:2354nsec  堦帪揑側昤夋壜擻僶僢僼傽傪巊梡偟偨揮憲偺帪娫:1448nsec
+1001:僶僢僋僶僢僼傽儘僢僋傪巊梡偟傑偣傫
+1002:倅僶僢僼傽傪嶌惉偟傑偡.... 惉岟
+1034:僾儘僌儔儅僽儖僔僃乕僟乕傪巊梡偟傑偡
+
+1138:僼僅儞僩偺弶婜壔傪峴偄傑偡
+1140:僼僅儞僩偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+1141:暥帤僐乕僪僶僢僼傽偺弶婜壔傪峴偄傑偡... 姰椆偟傑偟偨
+1567:僌儔僼傿僢僋僼傽僀儖 ../dat/img/talk/talk_3_3.png 偑偁傝傑偣傫
+1677:塃婰偺倂俙倁僼傽僀儖偺儘乕僪偵幐攕偟傑偟偨丗../dat/music/b0.mp3 
+
+2633:僌儔僼傿僢僋僼傽僀儖 ../dat/img/talk/talk_3_3.png 偑偁傝傑偣傫
+2741:塃婰偺倂俙倁僼傽僀儖偺儘乕僪偵幐攕偟傑偟偨丗../dat/music/b0.mp3 
+
+10289:僂僀儞僪僂傪暵偠傛偆偲偟偰偄傑偡
+10298:僂僀儞僪僂偑攋婞偝傟傛偆偲偟偰偄傑偡
+10300:僜僼僩傪廔椆偡傞弨旛偑惍偄傑偟偨
+10330:僼僅儞僩偺弶婜壔傪峴偄傑偡
+10332:僼僅儞僩偺弶婜壔偼惓忢偵廔椆偟傑偟偨
+10538:DirectInput 娭楢偺廔椆張棟... 姰椆
+10620:DirectSound 偺廔椆張棟偼惓忢偵廔椆偟傑偟偨
+10622:
+10623:Alloc memory dump
+10624:	size:100(0.098kb)  file:DxLib\DxWin.cpp  line:15249  ID:4401  addr:108045e0  data:<d...............> [64 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00]
+10625:	Total size:100(0.098kb)  Alloc num:1
+10626:
